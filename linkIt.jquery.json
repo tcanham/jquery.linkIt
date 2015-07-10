@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.3.0",
+    "author": {
+        "name": "Tom Canham",
+        "url": "http://tascwebsites.com"
+    },
+    "maintainers": [
+        {
+            "name": "Tom Canham",
+            "email": "tc@tascwebsites.com",
+            "url": "http://tascwebsites.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/tcanham/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/tcanham/jquery.linkIt",
+    "docs": "https://github.com/tcanham/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
